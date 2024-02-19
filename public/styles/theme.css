@@ -1,0 +1,29 @@
+:root {
+    /* colors */
+    --clr-midnight-blue: #040714;
+    --clr-midnight-blue-2: #090b13;
+    --clr-royal-blue: #0063e5;
+    --clr-dodger-blue: #0483ee;
+    --clr-light-gray: #f3f3f3;
+    --clr-gunmetal: #5F6166;
+    --clr-black-60opacity: #00000099;
+    --clr-black-20opacity: #00000033;
+    --clr-background-gradient: radial-gradient(circle at bottom, #2346A0, #050320);
+
+    /* sizes */
+    --size-xxs: 0.5rem;
+    --size-xs: 0.75rem;
+    --size-sm: 0.875rem;
+    --size-base: 1rem;
+    --size-lg: 1.125rem;
+    --size-xl: 1.25rem;
+    --size-2xl: 1.5rem;
+    --size-3xl: 1.875rem;
+    --size-4xl: 2.25rem;
+    --size-5xl: 3rem;
+    --size-6xl: 3.75rem;
+    --size-7xl: 4.5rem;
+    --size-8xl: 6rem;
+    --size-9xl: 8rem;
+    --size-10xl: 10rem;
+}
